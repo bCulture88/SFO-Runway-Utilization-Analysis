@@ -13,4 +13,4 @@ An executive-level data visualization project analyzing over two decades of comm
 * `dashboard_screenshot.png` - Visual preview of the production-ready interactive layout.
 
 ## Live Project Link
-* [View Interactive Dashboard Live on Tableau Public](PASTE_YOUR_LIVE_TABLEAU_PUBLIC_URL_HERE)
+* [View Interactive Dashboard Live on Tableau Public](https://public.tableau.com/views/Ait_traffic_anding_Statistics/Dashboard?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
